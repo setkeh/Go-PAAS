@@ -1,7 +1,7 @@
 /*
 Go-PAAS
 
-My attempt at designing a PAAS with Go and LXC while Learning GO
+My attempt at designing a PAAS with Go and LXC while Learning GO.
 
 Copyright (C) 2015  James D. Griffis
 
@@ -30,3 +30,7 @@ import (
 	"os"
 	"time"
 )
+
+func main() {
+
+}
