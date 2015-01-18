@@ -12,8 +12,8 @@ All The things:
 
 1. Insert the Methods to create LXC containers
 2. Insert the Methods for configuring LXC containers.
-3. Come up iwth a programaticl way up creating / deleting cgroups.
-4. Fix drone.io intergration.
+3. Come up with a programmatic way of creating / deleting cgroups.
+4. Fix drone.io.
 5. Crate easy managment.
 6. And Likely a bunch of other things i missed.
 
